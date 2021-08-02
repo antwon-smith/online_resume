@@ -19,6 +19,12 @@ body {
     text-align: left;
 }
 
+.banner h1, .banner h2, .banner h3 {
+    margin:auto;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
 #current {
     width: auto;
     padding: 20px 40px;
