@@ -79,3 +79,8 @@ body {
 #sidebar dt {
     color: white
 }
+
+.footer {
+    margin-left: 40px;
+    font-weight: bold;
+}
