@@ -72,6 +72,10 @@ body {
     font-style: italic;
 }
 
+#sidebar h1, #sidebar h3 {
+    color:rgb(197, 197, 197)
+}
+
 #sidebar dd {
     color: lightgray;
 }
