@@ -18,3 +18,14 @@ body {
 .banner h1, h2, h3 {
     text-align: left;
 }
+
+#current {
+    width: auto;
+    padding: 20px 40px;
+    margin: auto;
+    float: none;
+}
+
+#current p {
+    font-size:larger;
+}
