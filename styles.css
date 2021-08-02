@@ -88,3 +88,7 @@ body {
     margin-left: 40px;
     font-weight: bold;
 }
+
+#current span {
+    font-style: italic;
+}
