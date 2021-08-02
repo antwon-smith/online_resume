@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    background-image: url("gradient-background.jpg");
+}
+
+.banner {
+    width: auto;
+    margin: auto;
+    text-align:center;
+    padding: 40px;
+}
+
+.banner a {
+    text-align:justify;
+    color: slategrey;
+}
+
+.banner h1, h2, h3 {
+    text-align: left;
+}
