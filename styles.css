@@ -52,3 +52,24 @@ body {
     float: left;
     padding: 0 40px 0 20px
 }
+
+#sidebar {
+    border: solid blue 4px;
+    background-image: url("long-blue-background.jpg");
+    padding: 10px;
+    width: 400px;
+    float: right;
+}
+
+#sidebar h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+#sidebar dd {
+    color: lightgray;
+}
+
+#sidebar dt {
+    color: white
+}
